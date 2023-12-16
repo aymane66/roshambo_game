@@ -19,7 +19,7 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The game allows
 
     ```bash
     git clone https://github.com/aymane66/roshambo_game.git
-    cd rock-paper-scissors
+    cd roshambo_game
     ```
 
 2. Run the game:
